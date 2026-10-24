@@ -1,0 +1,1 @@
+# fmcg-ai-categorizer
